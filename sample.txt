@@ -1,1 +1,1 @@
-Dscvzvarfvs
+hello my friend. This is sample text for learning git.
